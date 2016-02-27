@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+  string str="hello world";
+  print(str)
+}
